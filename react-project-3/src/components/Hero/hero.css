@@ -1,0 +1,30 @@
+.Hero {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  padding: 2.6rem 0 4.9rem 0;
+}
+
+.hero--img {
+  height: 23.2rem;
+  margin: auto;
+  margin-bottom: 3.2rem;
+}
+
+.hero--title {
+  margin-bottom: 1rem;
+  padding-left: 3.6rem;
+  font-family: var(--main-extra-font);
+  font-size: 3.6rem;
+  line-height: 110%;
+}
+
+.hero--text-content {
+  max-width: 32rem;
+  padding-left: 3.6rem;
+
+  font-family: var(--main-font-family);
+  font-size: 1.6rem;
+  line-height: 110%;
+}

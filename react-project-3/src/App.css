@@ -1,3 +1,9 @@
+:root {
+  --main-font-family: 'Inter', sans-serif;
+  --main-extra-font: 'Poppins', sans-serif;
+}
+
+
 .App {
   max-width: 55rem;
   margin: auto;
