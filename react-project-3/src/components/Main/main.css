@@ -1,0 +1,53 @@
+.Main {
+  font-family: var(--main-extra-font);
+  color: #222222;
+}
+
+.main-card {
+  display: flex;
+  flex-direction: column;
+  padding-left: 3.7rem;
+}
+
+.card--img {
+  width: 17.6rem;
+}
+
+.main--grades {
+  display: flex;
+  align-items: center;
+
+  margin-top: .8rem;
+}
+
+.card--start-img {
+  max-width: 1.4rem;
+  margin-right: .2rem;
+}
+
+.main--grades > span {
+  font-size: 1.2rem;
+  line-height: 110%;
+}
+
+.main--country {
+  color: #918E9B;
+}
+
+.card--description {
+  margin-top: .8rem;
+
+  font-size: 1.2rem;
+  line-height: 110%;
+}
+
+.card--cost {
+  margin-top: .8rem;
+
+  font-size: 12px;
+  line-height: 110%;
+}
+
+.card--price {
+  font-weight: 600;
+}
