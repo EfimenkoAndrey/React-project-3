@@ -1,0 +1,13 @@
+.Navbar {
+  display: flex;
+  align-items: center;
+
+  height: 7rem;
+  padding: 0 2.9rem;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.navbar--logo {
+  width: 8.2rem;
+  height: 2.5rem;
+}
